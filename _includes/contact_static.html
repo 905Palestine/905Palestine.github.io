@@ -8,11 +8,11 @@
         <hr class="star-primary">
       </div>
     </div>
-    <iframe onload="prevDefault()" src="https://cryptpad.fr/form/#/2/form/view/uwWz-dyKfBnVohLKI8gBc7cxgsQn+yujHLUDTfAUSqk/embed/" title="Contact Us" width="100%" height="1412px" frameBorder="0">
+    <iframe onload="prevDefault(this)" src="https://cryptpad.fr/form/#/2/form/view/uwWz-dyKfBnVohLKI8gBc7cxgsQn+yujHLUDTfAUSqk/embed/" title="Contact Us" width="100%" height="1412px" frameBorder="0">
     </iframe> 
   </div>
   <script>
-     function prevDefault(event) {
+     function prevDefault() {
         event.preventDefault();
         console.log(this.contentWindow.location);
      }
