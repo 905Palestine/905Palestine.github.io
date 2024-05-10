@@ -8,13 +8,13 @@
         <hr class="star-primary">
       </div>
     </div>
-    <iframe id="contactFrom" src="https://cryptpad.fr/form/#/2/form/view/uwWz-dyKfBnVohLKI8gBc7cxgsQn+yujHLUDTfAUSqk/embed/" title="Contact Us" width="100%" height="1412px" frameBorder="0">
+    <iframe src="https://cryptpad.fr/form/#/2/form/view/uwWz-dyKfBnVohLKI8gBc7cxgsQn+yujHLUDTfAUSqk/embed/" title="Contact Us" width="100%" height="1412px" frameBorder="0">
     </iframe> 
 
     <script>
-      document.querySelector("#contactFrom").addEventListener("load", function(e) {
+      document.querySelector("iframe").addEventListener("load", function(e) {
         document.querySelector("#page-top").focus();// retire le focus du document contenu dans l'iframe
-        document.querySelector("#contactFrom").style.position = "static";// repasse l'iframe en static , voir pour une autre astuce là :()
+        document.querySelector("iframe").style.position = "static";// repasse l'iframe en static , voir pour une autre astuce là :()
       });
     </script>
   </div>
