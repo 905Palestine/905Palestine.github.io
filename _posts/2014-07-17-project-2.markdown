@@ -2,10 +2,8 @@
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: cake.png
+emoji: 📢
+title: Mobilize
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: The Niagara Palestine Coalition (NPC) supports the Palestinian cause by engaging in a variety of initiatives within the Niagara Region of Ontario. We organize weekly demonstrations to show solidarity and voice the demands of the local Palestinian community. We fundraise for humanitarian aid to support those affected by the war on Palestine. The NPC also hosts educational events aimed at informing the public and fostering a deeper understanding of the issues related to Palestine. We actively engage with local media outlets and participate in public forums to voice their concerns in collaboration with the Palestinian community. We also collaborate with other organizations, both within Canada and internationally, and work towards advocating for inclusive policies that uphold anti-racist principles. Through strategic social media campaigns, the NPC seeks to expand its influence and ensure that the voices of Palestinians are heard by decision-makers at all levels of government. We also provide a supportive network for local residents of Palestinian descent or those who support Palestinian rights, offering spaces where individuals can share their experiences and work together towards common goals. The coalition also responds to instances of discrimination within the community and monitors regional council actions to ensure that inclusivity and justice remain at the forefront of public discourse in Niagara.
 ---

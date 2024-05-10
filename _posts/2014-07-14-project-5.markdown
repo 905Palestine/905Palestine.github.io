@@ -2,10 +2,8 @@
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: safe.png
+emoji: 📚
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+title: Educate
+description: We work to inform the community about the current, ongoing atrocities occurring in Gaza, and the history of the colonization, occupation and ethnic cleansing of Palestine. This aggression did not begin on October 7th of 2023, it has been ongoing for over a century, was escalated in 1948 with the Nakba and the establishment of the so-called state of “Israel” on Palestinian land, continued through the occupation beginning and the siege and blockade on Gaza which began in 2006.
 ---

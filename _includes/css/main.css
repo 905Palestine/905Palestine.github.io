@@ -138,6 +138,11 @@ header .intro-text .skills {
         -moz-transition: all .3s;
         transition: all .3s;
     }
+    .navbar-brand img {
+        margin-top: -1.2em;
+        height: 3em;
+        width: auto;
+    }
 
     .navbar-fixed-top.navbar-shrink {
         padding: 10px 0;
@@ -146,6 +151,21 @@ header .intro-text .skills {
     .navbar-fixed-top.navbar-shrink .navbar-brand {
         font-size: 1.5em;
     }
+    .navbar-fixed-top.navbar-shrink .navbar-brand img {
+        height: 3em ;
+        width: auto;
+        margin-top: -1em;
+        transition: transform 0.3s ease;
+    }
+
+}
+@media(max-width:768px){
+
+     .navbar-brand img{
+        height: 3em;
+        width: auto;
+        margin-top: -0.9em;
+}
 }
 
 .navbar {
@@ -372,7 +392,7 @@ footer .footer-col {
 
 footer .footer-below {
     padding: 25px 0;
-    background-color: #{{ site.color.secondary-dark }};
+    background-color: #{{ site.color.secondary}};
 }
 
 .btn-social {
@@ -476,9 +496,22 @@ footer .footer-below {
     background-color: #{{ site.color.secondary-dark }} !important;
 }
 
+
+
 /* Fix modal mouse wheel issues */
 /* https://github.com/twbs/bootstrap/issues/16297 */
 .modal.fade.in {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
+}
+
+.emoji{
+    min-height: 250px;
+    min-width: 250px;
+    max-height: 100vh;
+    max-width: 100vw;
+    font-size: calc(15vw + 1em);
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }

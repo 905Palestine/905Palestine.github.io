@@ -2,10 +2,8 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: cabin.png
+emoji: 🫵
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+title: Organize
+description: In the wake of the October Crisis in Palestine the Palestinian Solidarity Movement in the Niagara Region was still small and scattered. The Niagara Palestine Coalition formed in order to organize the small pockets of solidarity into large-scale demonstrations that would demand Palestinian human rights be respected. The coalition has been organized by volunteers, activists, and community leaders from all over the region.
 ---

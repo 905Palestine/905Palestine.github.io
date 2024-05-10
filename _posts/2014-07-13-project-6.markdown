@@ -2,10 +2,8 @@
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: submarine.png
+emoji: 🌟
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+title: Influence
+description: The Niagara Palestine Coalition (NPC) influences its community by fostering awareness, understanding, and solidarity with the Palestinian people through education, advocacy, and grassroots activism. Their efforts include organizing educational events to inform the public, participating in policy discussions to influence local government actions, collaborating with other organizations for broader impact, and providing support networks for Palestinians living in Niagara. By engaging in public discourse, countering discrimination, and leveraging social media campaigns, the NPC shapes both local attitudes and regional policies towards a more inclusive stance on Palestinian rights.
 ---

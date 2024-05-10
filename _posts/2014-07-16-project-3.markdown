@@ -2,10 +2,8 @@
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: circus.png
+emoji: 🚩
+title: Represent
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: "In the heart of the Niagara region, a coalition of impassioned activists unites under one banner, driven by a singular purpose: to illuminate the shadows of injustice cast upon the Palestinian people. With unwavering resolve, we stand as a beacon of solidarity, amplifying the voices silenced by the horrors of genocide and ethnic cleansing. Through protests that echo with the cries of the oppressed, fundraisers that offer hope to shattered families in Gaza, and media campaigns that refuse to let the world turn a blind eye, we forge a path toward justice. Our mission is clear: to halt the atrocities perpetrated by the Israeli regime and safeguard the sanctity of every life of our Palestinian kin, including those martyred. In our coalition, solidarity is our strength, compassion is our compass, and justice is our unwavering pursuit."
 ---

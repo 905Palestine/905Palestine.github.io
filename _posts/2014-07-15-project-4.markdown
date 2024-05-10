@@ -2,10 +2,8 @@
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: game.png
+emoji: 🌐
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+title: Network
+description: The Niagara Palestine Coalition (NPC) strengthens its mission through strategic networking that unites diverse groups in solidarity with the Palestinian cause. Our approach includes forming alliances with like-minded organizations, engaging with local and international decision-makers to influence policy, leveraging social media for outreach, participating in public events for advocacy, hosting educational programs, and establishing community support networks. By connecting with a wide range of partners, the NPC amplifies its voice and works towards justice and human rights for Palestinians within the Niagara Region and beyond.
 ---

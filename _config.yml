@@ -1,11 +1,11 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+title: Niagara Palestine Coalition
+email: niagarapalestine@gmail.com
+url: niagarapalestinecoalition.ca
+description: "The Niagara Palestine Coalition was founded in the wake of the October crisis in Palestine in 2023 and has members from diverse backgrounds including Palestinians, Jews, academics, union activists, students, youth, and retirees of different faiths across the Niagara region of Ontario. It has organized weekly demonstrations in Niagara on Sundays as well as fundraisers and educational events."
+keywords: "Palestine"
+skills: "Organize - Mobilize - Free Palestine"
+meta_author: Gebril Gabriel
 
 # Google webmaster tools
 google_verify:
@@ -25,38 +25,39 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  primary: 149954 #80B3FF
+  primary-rgb: "20,153,84" #"128,179,255"
+  secondary: "000000" #FD6E8A
+  secondary-dark: e4312b  #A2122F
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Niagara Palestine Coalition
   location: Location
-  social: Around the Web
-  credits: Credits
+  social: Socials
+  credits: Dedication
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
+  - title: instagram
+    url: https://www.instagram.com/905palestine
+  - title: whatsapp
+    url: https://chat.whatsapp.com/KUGkjOWqDOL5UJuFqnrBQ7
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+    url: https://www.facebook.com/905palestine/
+  - title: twitter
+    url: https://twitter.com/905Palestine
+  - title: tiktok
+    url: https://www.tiktok.com/@905palestine
+  
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: The 905
+  - line: Niagara Region of "Canada"
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'To the only people who speak for Palestine; its children and its resistence.'
 
 # Build settings
 markdown: kramdown
