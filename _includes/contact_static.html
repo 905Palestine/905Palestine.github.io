@@ -2,8 +2,11 @@
 <section id="contact">
   <script>
     function prevDefault() {
+      var pos = window.screenY;
        console.log("hello");
-       window.scrollTo(window.screenY,0)
+       console.log(pos);
+       window.scrollTo(0,pos);
+       window.onscroll = function () { window.scrollTo(0, pos); };
     }
  </script>
   <div class="container">
