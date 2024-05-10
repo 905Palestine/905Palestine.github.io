@@ -516,4 +516,4 @@ footer .footer-below {
     align-items: center;
 }
 
-iframe {position:fixed}
+iframe {display: none;}
