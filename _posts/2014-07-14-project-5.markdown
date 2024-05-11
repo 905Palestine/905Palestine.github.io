@@ -5,5 +5,5 @@ date: 2014-07-14
 emoji: 📚
 alt: image-alt
 title: Educate
-description: We work to inform the community about the current, ongoing atrocities occurring in Gaza, and the history of the colonization, occupation and ethnic cleansing of Palestine. This aggression did not begin on October 7th of 2023, it has been ongoing for over a century, was escalated in 1948 with the Nakba and the establishment of the so-called state of “Israel” on Palestinian land, continued through the occupation beginning and the siege and blockade on Gaza which began in 2006.
+description: We work to inform the community about the current, ongoing atrocities occurring in Gaza, and the history of the colonization, occupation and ethnic cleansing of Palestine. This aggression did not begin on October 7th of 2023, it has been ongoing for over a century, was escalated in 1948 with the Nakba and the establishment of the so-called state of “Israel” on Palestinian land, continued through the occupation, and then escalating through the siege and blockade on Gaza which began in 2006.
 ---
