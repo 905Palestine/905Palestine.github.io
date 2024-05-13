@@ -1,5 +1,11 @@
+---
 name: Feature Request
-Description: How to request a feature
+about: Create feature request
+title: ''
+labels: to sort
+assignees: ''
+
+---
 
 Create a feature request to help us improve
 	
