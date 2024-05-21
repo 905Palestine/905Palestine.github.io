@@ -518,12 +518,6 @@ footer .footer-below {
 
 @media (min-width: 2400px) {
         .portfolio-flex-item portfolio-item{
-        min-height: 250px;
-        min-width: 250px;
-        max-height: 100vh;
-        max-width: 100vw;
-        font-size: calc(15vw + 1em);
-        display: block;
-        margin-right: 1em;
+            margin: 0 0 1em 30px;
     }
 }
