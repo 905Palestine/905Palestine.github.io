@@ -517,7 +517,7 @@ footer .footer-below {
 }
 
 @media (min-width: 2400px) {
-        .portfolio-flex-item portfolio-item{
+        #portfolio .portfolio-item{
             margin: 0 0 1em 30px;
     }
 }
