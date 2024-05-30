@@ -515,3 +515,9 @@ footer .footer-below {
     justify-content: center;
     align-items: center;
 }
+
+@media (min-width: 2400px) {
+        #portfolio .portfolio-item{
+            margin: 0 0 1em 30px;
+    }
+}
