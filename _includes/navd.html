@@ -9,7 +9,7 @@
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand" href="{{ site.url | append:"/#page-top" }}">
+        <a class="navbar-brand" href="{{ site.url | append:"/#page-top" | prepend: "https://" }}">
           <img src="{{ site.url | append:"/img/profile.svg" }}" alt=""/>
   
         </a>
@@ -19,19 +19,19 @@
       <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
         <ul class="nav navbar-nav navbar-right">
           <li class="hidden">
-            <a href="{{ site.url | append:"/#page-top" }}"></a>
+            <a href="{{ site.url | append:"/#page-top" | prepend: "https://" }}"></a>
           </li>
           <li class="page-scroll">
-            <a href="{{ site.url | append:"/#portfolio" }}">What We Do</a>
+            <a href="{{ site.url | append:"/#portfolio" | prepend: "https://" }}">What We Do</a>
           </li>
           <li class="page-scroll">
-            <a href="{{ site.url | append:"/#about" }}">Who We Are</a>
+            <a href="{{ site.url | append:"/#about" | prepend: "https://" }}">Who We Are</a>
           </li>
           <li class="page-scroll">
-            <a href="{{ site.url | append:"/#contact" }}">Contact</a>
+            <a href="{{ site.url | append:"/#contact" | prepend: "https://" }}">Contact</a>
           </li>
           <li class="page-scroll">
-            <a href="{{ site.url | append:"/#socials" }}">Socials</a>
+            <a href="{{ site.url | append:"/#socials" | prepend: "https://" }}">Socials</a>
           </li>
           <li>
             <a href="" >
