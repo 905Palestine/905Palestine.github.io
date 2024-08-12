@@ -12,7 +12,7 @@
   <link rel="alternate" type="application/rss+xml" title="RSS" href="feed.xml">
 
   <!-- Custom CSS & Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
-  <link rel="stylesheet" href="{{ site.url | append:"/style.css" }}">
+  <link rel="stylesheet" href="{{ site.url | append:"/style.css" | prepend: "https://" }}">
 
   <!-- Google verification -->
   {% if site.google_verify %}
@@ -23,7 +23,7 @@
   <meta name="msvalidate.01" content="{{ site.bing_verify }}">{% endif %}
 
   <!-- Custom Fonts -->
-  <link rel="stylesheet" href="{{ site.url | append:"/css/font-awesome/css/all.min.css" }}">
+  <link rel="stylesheet" href="{{ site.url | append:"/css/font-awesome/css/all.min.css" | prepend: "https://" }}">
   <link href="//fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
   <link href="//fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
   <script src=https://zeffy-scripts.s3.ca-central-1.amazonaws.com/embed-form-script.min.js></script>
