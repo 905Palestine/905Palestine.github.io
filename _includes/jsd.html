@@ -1,24 +1,24 @@
 <!-- jQuery Version 1.11.0 -->
-<script src="{{ site.url | append:" js/jquery-1.11.0.js" }}"></script>
+<script src="{{ site.url | append:" js/jquery-1.11.0.js" | prepend: "https://" }}"></script>
 
 <!-- Bootstrap Core JavaScript -->
-<script src="{{ site.url | append:" js/bootstrap.min.js" }}"></script>
+<script src="{{ site.url | append:" js/bootstrap.min.js" | prepend: "https://" }}"></script>
 
 <!-- Plugin JavaScript -->
-<script src="{{ site.url | append:" js/jquery.easing.min.js" }}"></script>
-<script src="{{ site.url | append:" js/classie.js" }}"></script>
-<script src="{{ site.url | append:" js/cbpAnimatedHeader.js" }}"></script>
+<script src="{{ site.url | append:" js/jquery.easing.min.js" | prepend: "https://" }}"></script>
+<script src="{{ site.url | append:" js/classie.js" | prepend: "https://" }}"></script>
+<script src="{{ site.url | append:" js/cbpAnimatedHeader.js" | prepend: "https://" }}"></script>
 
 <!-- Contact Form JavaScript -->
-<script src="{{ site.url | append:" js/jqBootstrapValidation.js" }}"></script>
+<script src="{{ site.url | append:" js/jqBootstrapValidation.js" | prepend: "https://" }}"></script>
 {% if site.contact == "static" %}
-<script src="{{ site.url | append:" js/contact_me_static.js" }}"></script>
+<script src="{{ site.url | append:" js/contact_me_static.js" | prepend: "https://" }}"></script>
 {% else %}
-<script src="{{ site.url | append:" js/contact_me.js" }}"></script>
+<script src="{{ site.url | append:" js/contact_me.js" | prepend: "https://" }}"></script>
 {% endif %}
 
 <!-- Custom Theme JavaScript -->
-<script src="{{ site.url | append:" js/freelancer.js" }}"></script>
+<script src="{{ site.url | append:" js/freelancer.js" | prepend: "https://" }}"></script>
 
 {% if site.contact == "disqus" %}
 <!-- Disqus Stuff -->
